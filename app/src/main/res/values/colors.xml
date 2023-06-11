@@ -11,4 +11,7 @@
     <color name="Light_Blue">#5d9cec</color>
     <color name="Dark_blue">#1473E6</color>
     <color name="Light_gray">#f8f8f8</color>
+
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
 </resources>
