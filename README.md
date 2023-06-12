@@ -1,6 +1,6 @@
 # Tippy - Simple  Tip Calculator
 
-## *Pasindu batagoda*
+## *Pasindu Batagoda*
 
 **Tippy** Allows the user to easily calculate the tip by entering the bill amount. The tip percentage is adjusted by an interactive slider and the tip amount and the total is calculated automatically
 
